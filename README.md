@@ -1,5 +1,5 @@
-# Proyecto_Final_ML
-MODELOS DE MACHINE LEARNING
+## Proyecto_Final_ML
+# MODELOS DE MACHINE LEARNING
 # Identificación de Patrones:
 Se pueden identificar varios patrones y prácticas comunes en el análisis de datos y la construcción de Modelos de Machine Learning.
 # Ingeniería de Características:
@@ -177,7 +177,7 @@ El proceso de mejora continua será cíclico, con iteraciones basadas en la evol
 
 Este enfoque estructurado permite una evaluación completa del sistema, abordando aspectos clave como la precisión del modelo, la efectividad de las recomendaciones y la retroalimentación de los usuarios para garantizar un sistema robusto y orientado a la satisfacción del usuario.
 
-## INFORME DE CONTROL DE CALIDAD DEL PROYECTO DE MACHINE LEARNING
+# INFORME DE CONTROL DE CALIDAD DEL PROYECTO DE MACHINE LEARNING
 
 # Evaluación del Desempeño de los Modelos
 
@@ -217,7 +217,7 @@ Escalabilidad y Eficiencia
 Se ha evaluado la capacidad del sistema para manejar grandes volúmenes de datos, y la eficiencia del sistema es considerada crucial para la satisfacción del usuario.
 
 
-## Conclusiones y Acciones Siguientes
+# Conclusiones y Acciones Siguientes
 
 # Análisis Integral: La combinación de evaluaciones cuantitativas y cualitativas brinda una visión integral del proyecto.
 
@@ -227,15 +227,15 @@ Se ha evaluado la capacidad del sistema para manejar grandes volúmenes de datos
 
 # Iteración del Ciclo: El proceso de mejora continua es cíclico, con iteraciones basadas en la evolución de datos y necesidades de usuarios.
 
-## Recomendaciones
+# Recomendaciones
 # Monitoreo Continuo: Se recomienda un monitoreo continuo del desempeño del modelo y la retroalimentación de usuarios para adaptarse a cambios en el entorno y las preferencias.
 
 # Mejora de la Interfaz: Considerar mejoras en la interfaz de usuario para una experiencia más intuitiva y atractiva.
 
-# Exploración de Nuevos Modelos: Explorar la posibilidad de incorporar modelos más avanzados para mejorar la precisión de las predicciones.
+ Exploración de Nuevos Modelos: Explorar la posibilidad de incorporar modelos más avanzados para mejorar la precisión de las predicciones.
 
-## Este informe proporciona una visión completa del estado actual del proyecto de Machine Learning, destacando áreas de éxito y oportunidades de mejora. La implementación de acciones recomendadas contribuirá a un sistema más robusto y eficaz a largo plazo.
+ Este informe proporciona una visión completa del estado actual del proyecto de Machine Learning, destacando áreas de éxito y oportunidades de mejora. La implementación de acciones recomendadas contribuirá a un sistema más robusto y eficaz a largo plazo.
 
-## Se adjunta deployment de los sistemas de recomendacion y prediccion en Render https://pml-1740.onrender.com/docs#/default/get_recommendations_recommendations__get
+ Se adjunta deployment de los sistemas de recomendacion y prediccion en Render https://pml-1740.onrender.com/docs#/default/get_recommendations_recommendations__get
 
 
