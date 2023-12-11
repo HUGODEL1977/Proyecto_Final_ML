@@ -236,4 +236,6 @@ Se ha evaluado la capacidad del sistema para manejar grandes volúmenes de datos
 
 ## Este informe proporciona una visión completa del estado actual del proyecto de Machine Learning, destacando áreas de éxito y oportunidades de mejora. La implementación de acciones recomendadas contribuirá a un sistema más robusto y eficaz a largo plazo.
 
+## Se adjunta deployment de los sistemas de recomendacion y prediccion en Render https://pml-1740.onrender.com/docs#/default/get_recommendations_recommendations__get
+
 
