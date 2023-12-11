@@ -116,19 +116,19 @@ Se realiza una búsqueda de cuadrícula para optimizar los hiperparámetros del 
 
 Se evalúa la capacidad predictiva del modelo mediante métricas como el error cuadrático medio.
 
-# Iteración y Mejora Continua:
+ Iteración y Mejora Continua:
 
-# Análisis de Resultados:
+ Análisis de Resultados:
 
 Se analizan los resultados de los modelos, identificando posibles áreas de mejora en términos de precisión y rendimiento.
 
-# Posible Ajuste de Hiperparámetros:
+#Posible Ajuste de Hiperparámetros:
 
 Se podría considerar ajustar los hiperparámetros de los modelos para mejorar aún más su rendimiento.
 
 Evaluación del Sistema y de la Interfaz de Usuario
 
-# Precisión en la Predicción de Tipos de Restaurantes:
+ Precisión en la Predicción de Tipos de Restaurantes:
 
 # Desempeño del Modelo de Clasificación:
 
@@ -142,7 +142,6 @@ Se evalúa la capacidad del sistema para proporcionar recomendaciones personaliz
 
 Se utiliza el endpoint /recomendacion_ciudad/ para evaluar la calidad y relevancia de las recomendaciones.
 
-# Retroalimentación de Usuarios:
 
 # Recopilación de Comentarios:
 
@@ -177,27 +176,27 @@ El proceso de mejora continua será cíclico, con iteraciones basadas en la evol
 
 Este enfoque estructurado permite una evaluación completa del sistema, abordando aspectos clave como la precisión del modelo, la efectividad de las recomendaciones y la retroalimentación de los usuarios para garantizar un sistema robusto y orientado a la satisfacción del usuario.
 
-# INFORME DE CONTROL DE CALIDAD DEL PROYECTO DE MACHINE LEARNING
+ INFORME DE CONTROL DE CALIDAD DEL PROYECTO DE MACHINE LEARNING
 
-# Evaluación del Desempeño de los Modelos
+ Evaluación del Desempeño de los Modelos
 
-# Modelo de Clasificación (Random Forest Classifier)
+ Modelo de Clasificación (Random Forest Classifier)
 
-# Precisión Global: La precisión del modelo en el conjunto de prueba es del XX%, indicando un rendimiento razonable en la predicción de la apertura de restaurantes.
+ Precisión Global: La precisión del modelo en el conjunto de prueba es del XX%, indicando un rendimiento razonable en la predicción de la apertura de restaurantes.
 
-# Matriz de Confusión: Se observa un equilibrio en la clasificación de restaurantes abiertos y cerrados, con un mínimo de falsos positivos y falsos negativos.
+ Matriz de Confusión: Se observa un equilibrio en la clasificación de restaurantes abiertos y cerrados, con un mínimo de falsos positivos y falsos negativos.
 
-# Modelo de Regresión (Random Forest Regressor)
+ Modelo de Regresión (Random Forest Regressor)
 
-# Error Cuadrático Medio: El error cuadrático medio en el conjunto de prueba es de X.XX, lo que sugiere una buena capacidad predictiva en términos de crecimiento en el número de reseñas.
+ Error Cuadrático Medio: El error cuadrático medio en el conjunto de prueba es de X.XX, lo que sugiere una buena capacidad predictiva en términos de crecimiento en el número de reseñas.
 
-# Optimización de Hiperparámetros: Se ha realizado una búsqueda de cuadrícula para optimizar los hiperparámetros del modelo, lo que contribuye a su rendimiento.
+ Optimización de Hiperparámetros: Se ha realizado una búsqueda de cuadrícula para optimizar los hiperparámetros del modelo, lo que contribuye a su rendimiento.
 
-# Evaluación del Sistema y de la Interfaz de Usuario
+Evaluación del Sistema y de la Interfaz de Usuario
 
-# Precisión en la Predicción de Tipos de Restaurantes
+ Precisión en la Predicción de Tipos de Restaurantes
 
-# Desempeño del Modelo de Clasificación: 
+ Desempeño del Modelo de Clasificación: 
 
 La precisión en la predicción de si un restaurante está abierto es satisfactoria, contribuyendo a la eficacia general del sistema.
 
@@ -219,23 +218,23 @@ Se ha evaluado la capacidad del sistema para manejar grandes volúmenes de datos
 
 # Conclusiones y Acciones Siguientes
 
-# Análisis Integral: La combinación de evaluaciones cuantitativas y cualitativas brinda una visión integral del proyecto.
+Análisis Integral: La combinación de evaluaciones cuantitativas y cualitativas brinda una visión integral del proyecto.
 
-# Mejoras Continuas: Con base en los resultados y la retroalimentación, se planifican mejoras continuas en modelos y la interfaz de Usuario.
+Mejoras Continuas: Con base en los resultados y la retroalimentación, se planifican mejoras continuas en modelos y la interfaz de Usuario.
 
-# Optimización de Recursos: Se busca oportunidades para optimizar los recursos computacionales y mejorar la eficiencia del sistema.
+ Optimización de Recursos: Se busca oportunidades para optimizar los recursos computacionales y mejorar la eficiencia del sistema.
 
-# Iteración del Ciclo: El proceso de mejora continua es cíclico, con iteraciones basadas en la evolución de datos y necesidades de usuarios.
+ Iteración del Ciclo: El proceso de mejora continua es cíclico, con iteraciones basadas en la evolución de datos y necesidades de usuarios.
 
-# Recomendaciones
-# Monitoreo Continuo: Se recomienda un monitoreo continuo del desempeño del modelo y la retroalimentación de usuarios para adaptarse a cambios en el entorno y las preferencias.
+ Recomendaciones
+ Monitoreo Continuo: Se recomienda un monitoreo continuo del desempeño del modelo y la retroalimentación de usuarios para adaptarse a cambios en el entorno y las preferencias.
 
-# Mejora de la Interfaz: Considerar mejoras en la interfaz de usuario para una experiencia más intuitiva y atractiva.
+ Mejora de la Interfaz: Considerar mejoras en la interfaz de usuario para una experiencia más intuitiva y atractiva.
 
  Exploración de Nuevos Modelos: Explorar la posibilidad de incorporar modelos más avanzados para mejorar la precisión de las predicciones.
 
  Este informe proporciona una visión completa del estado actual del proyecto de Machine Learning, destacando áreas de éxito y oportunidades de mejora. La implementación de acciones recomendadas contribuirá a un sistema más robusto y eficaz a largo plazo.
 
- Se adjunta deployment de los sistemas de recomendacion y prediccion en Render https://pml-1740.onrender.com/docs#/default/get_recommendations_recommendations__get
+ Se adjunta deployment de los sistemas de recomendacion y prediccion en Render :  https://pml-1740.onrender.com/docs#/default/get_recommendations_recommendations__get
 
 
